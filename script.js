@@ -126,9 +126,9 @@ map.length()
 map.keys()
 map.val()
 map.entries()
-// map.clear()
-// console.log(map.remove('hamza'))
-// console.log(map.has('hamza'));
+map.clear()
+console.log(map.remove('hamza'))
+console.log(map.has('hamza'));
 
 
 
